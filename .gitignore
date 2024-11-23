@@ -3,3 +3,4 @@ __pycache__/
 .venv/
 pdf_export_command.txt
 *.gz
+Quizzes/Quiz7/keys.py
